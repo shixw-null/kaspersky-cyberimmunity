@@ -9,7 +9,8 @@
 - Все пилоты не допускают ошибок при управлении системой и ВС.
 
 ## Архитектура
-![Architecture](https://user-images.githubusercontent.com/78073006/207903919-f56f3561-0d18-4151-aba6-364593d7229c.png)
+![Architecture](https://user-images.githubusercontent.com/78073006/207918766-46b0d676-dc08-429e-a516-9dd44788d149.png)
+
 
 
 ## Активы
