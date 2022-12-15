@@ -10,7 +10,8 @@
 - Бортовая система TCAS исправна и изолирована. Вероятность ее злонамеренной модификации в полете - исключена;
 
 ## Архитектура
-![Architecture](https://user-images.githubusercontent.com/78073006/207615731-59193873-0259-49bb-84b6-6ea7e0005ec1.png)
+![Architecture](https://user-images.githubusercontent.com/78073006/207847238-b5ad439a-f690-45ab-94b7-38bbf859d71e.png)
+
 
 ## Активы
 1. Воздушное судно (ВС) и его бортовые системы;
